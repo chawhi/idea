@@ -40,17 +40,76 @@ PICK CLOUDは、現役ピック（ACTIVE ZONE）と引退ピック（ARCHIVE ZON
 
 ---
 
+## シグネチャーディテール
+### 「最後の一音溝」——0.3mmの感触が引退を告げる
+
+ARCHIVE ZONEの各スロットの底面に、**深さ0.3mmの弧状の刻線**が一本だけ入れられている。
+
+ピックをスロットに収める瞬間、ピックの先端がその溝に沿って「カチ」と静かに噛み合う。**音は出ない。感触だけがある。**
+
+この微細な抵抗感は、ギタリストがピックで弦を弾いたとき弦に引っかかる瞬間の感触を意図的に模倣している。現役時代に何千回も経験してきた「あの引っかかり」で、ピックは引退する。最後の一音を、音なく弾く。
+
+この溝は機能的には「位置決め」として説明できる。しかし本質は**感情的なクロージャー（closure）の設計**——スロットに「落とす」のではなく「置く」という動作に変え、儀式を生む。
+
+> 「この溝に気づいたとき、泣きそうになった」というレビューが書かれることを設計している。
+
+---
+
+## デザインの必然性
+### なぜ2ゾーン分離でなければならないか
+
+1ゾーンで混在させたとき、使い込んだ傷も白く粉をふいた角も「ただの劣化」として視界から消える。**2ゾーンを物理的に分離することで初めて、ACTIVEは「今の自分」を、ARCHIVEは「過去の自分」を象徴するようになる。**
+
+棚に置いたとき、ACTIVEは手前、ARCHIVEは奥。「遠ざかっていくもの」を、文字通り奥へ置く配置は偶然ではない。
+
+### ACTIVE→ARCHIVEへの「移送」の造形的意味
+
+ACTIVEゾーンのスロットは**垂直方向**に抜き差しする——速く、繰り返し、迷わない日常の動作。ARCHIVEゾーンのスロットは**水平方向**にスライドして収める——引き出しを閉めるように、横から差し込む。
+
+**垂直から水平へ。速さから遅さへ。消費から保存へ。**動作の方向の変化が行為の質を変え、「これは別の場所だ」という身体的認識を生む。
+
+### ピックの「空間的な重さ」の設計
+
+ARCHIVEゾーンのスロット間隔はACTIVEより**2mm広い**。この間隔が一枚一枚の間に「間（ま）」を生む。透明ウィンドウ越しに見えるとき、各ピックは隣と距離を持ち、それぞれが「個体」として見える。名前のないものに名前を与えるのは、距離を置くことだ。
+
+---
+
 ## プロダクトイメージ（画像プロンプト）
 ```
-A compact guitar pick organizer with two distinct zones side by side.
-Left section "ACTIVE ZONE": magnetic slots organized in three rows by pick 
-thickness, color-coded edge strips (white for thin, blue for medium, red for 
-heavy). Right section "ARCHIVE ZONE": a small transparent acrylic window 
-display case showing 6-8 worn and beloved guitar picks behind glass, like a 
-mini trophy case. The body is matte black aluminum with brass accent screws.
-Overall size roughly 12cm x 8cm. Sitting on top of a guitar amplifier.
-Clean product photography, white background, dramatic side lighting, 
-premium feel.
+Product photography of PICK CLOUD guitar pick organizer system,
+shot with 120mm Macro-Planar lens at f/4.5, camera distance 60cm,
+shallow depth of field pulling focus across the full two-zone surface.
+
+LIGHTING: Single key light from upper-left at 40-degree angle, large
+diffused softbox (90x90cm), soft shadow falling 70% to the right and
+rear. No fill light. One subtle hair-light from upper-right at 80 degrees
+adds edge separation on the transparent archive window.
+
+ACTIVE ZONE occupies the left 45% of the frame in full sharp focus:
+thick matte-surfaced slots in three warm tones (amber, coral, slate-blue)
+holding various worn guitar picks. This zone is the first point of eye
+contact — lit directly, colors saturated and tactile.
+
+ARCHIVE ZONE occupies the right 40% in soft focus transition:
+clear acrylic window revealing retired picks, lit from behind by rim
+light, creating a soft glow as if the picks are faintly illuminated
+from within. Colors cooler, slightly desaturated — these picks belong
+to another time.
+
+The 12mm shadow valley between the two zones is the compositional spine —
+the third element the eye visits, holding the conceptual weight of
+the entire image.
+
+Background: deep warm charcoal (#2a2420), slightly textured. Zero white.
+
+COLOR GRADE: Kodak Portra 400 pushed one stop — slight warm shift in
+shadows, gentle halation around the archive window highlight. Grain
+overlay at 15% opacity.
+
+The single pick half-lifted from its ACTIVE slot — hovering, a decision
+being made — is the punctum of the image.
+
+No white background. No lifestyle elements. The object speaks alone.
 ```
 
 ---
@@ -67,13 +126,45 @@ premium feel.
 
 ## 活用シーン・使用中のイメージ（画像プロンプト）
 ```
-A close-up shot of a guitarist's hand reaching for a guitar pick from the 
-ACTIVE ZONE of PICK CLOUD, which is mounted on the side of a guitar amplifier.
-The guitarist's other hand is holding a Fender Stratocaster guitar. 
-In the ARCHIVE ZONE visible nearby, several worn picks with personal history 
-are displayed behind the transparent window. Warm guitar room atmosphere, 
-wooden floor, natural afternoon light from the side window. Shallow depth of 
-field focused on the hand and pick organizer. Lifestyle photography style.
+Cinematic still: a guitarist's right hand, mid-30s, calloused fingertips
+with pick-wear on the index finger and thumb — transferring a single heavily
+worn celluloid pick from ACTIVE ZONE to ARCHIVE ZONE of PICK CLOUD.
+
+The pick is held between thumb and index finger, 3cm above the archive slot,
+caught in the precise moment of release — not yet settled, still suspended.
+The pick is visibly aged: whitened edges, micro-scratches radiating from the
+tip, a small chip on one corner.
+
+LENS & DISTANCE: Leica Summilux 50mm f/1.4 ASPH, shot wide open.
+Camera at tabletop height, slightly below eye-line of the hand, tilted
+8 degrees upward. Distance: 45cm from the pick.
+
+DEPTH OF FIELD: razor thin. The pick in critical focus. The fingertips
+70% sharp. The PICK CLOUD body falls into soft luminous blur — just
+readable, the archive window glowing gently in the background bokeh.
+The two previous picks resting in archive slots ghosted, warm, present
+as memory.
+
+LIGHTING: Single candle-temperature (2700K) gobo light at 90 degrees
+left, very low — 20cm above table surface. Raking light catches the
+wear marks on the pick with near-forensic detail. Shadow falls long
+and soft to the right. Extremely faint warm bounce from a right-side
+reflector card only.
+
+COLOR GRADE: Fujifilm Eterna 500T cinema stock — slight blue-green
+shadow shift balanced against warm key, dusk-hour emotional temperature.
+Lifted blacks. Halation on the pick's edge where worn celluloid catches
+light.
+
+COMPOSITION: The pick at the upper-center golden-ratio intersection.
+The archive window glow at lower-right. Empty darkness holds the left
+third — the absence of the active zone, now that the pick has left it.
+
+The hand is unhurried. The pick is being placed, not dropped.
+The composition holds its breath.
+
+MOOD: A photograph about the end of something,
+      and the care with which it is kept.
 ```
 
 ---

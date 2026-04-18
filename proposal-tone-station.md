@@ -34,16 +34,62 @@
 
 ---
 
+## シグネチャーディテール
+### 「ドットのサイン」——エフェクターを外した者だけが見える刻印
+
+中央エフェクタートレイの底面、左端から右端にかけて**直径1mmの半球状ドットが一列に刻まれている**。エフェクターを乗せている間は完全に隠れており、持ち上げた瞬間にのみ現れる。
+
+このドット列は等間隔ではなく、**左から右にわずかに間隔が広がっている**（1.8mm → 2.5mm）。物理的なドップラー効果——信号が加速しながら右へ流れ出る暗示。指でなぞると方向を感じる。
+
+> SNS投稿の軸：「エフェクターどかしたら底にこんなのあった」という発見の投稿が生まれるために設計された細部
+
+---
+
+## デザインの必然性
+### なぜ非対称の左→右構造でなければならないか
+
+TONE STATIONを対称形にした場合、机の上に現れるのは「収納」であり「流れ」ではない。**対称は静止を意味する。非対称だけが運動を意味する。**
+
+左のケーブルフック部は**低く・重心が下**にある——インプット、まだ何も始まっていない巻かれたケーブルの重さを受け止める。中央トレイは**15°右上がり**——ここで信号は変容を経る。エフェクターが乗るとき水平な収納ではなく、舞台に立つような角度。右のヘッドホンスタンドは**最も高い**——音が最終的に昇る先、耳の高さへ。
+
+**15°という数字の必然**：水平ではエフェクターは「置かれたもの」。30°以上では「展示されたもの」になりすぎる。15°はギタリストが足元のペダルボードを俯瞰する視線の角度——使用中の視点を机の上に再現した唯一の角度だ。
+
+形が時間を持つ：左の円弧（演奏前）、中央の直線と平面（演奏中）、右の縦の曲線（演奏後）。三つの形が三つの時間を語る。
+
+---
+
 ## プロダクトイメージ（画像プロンプト）
 ```
-A minimal desk organizer for guitarists, designed as a signal chain flow 
-from left to right. Left zone: matte black cable hooks with two labeled 
-slots (L-shaped connector / straight connector), small pick holder with 
-color-coded grooves. Center zone: angled display tray at 15 degrees showing 
-2-3 guitar effects pedals. Right zone: upright headphone stand with a sleek 
-silhouette. The entire piece is made of walnut wood base with matte black 
-aluminum dividers and brass screws. Top-down flat lay product photography on 
-a white surface. Clean minimal aesthetic, dramatic side lighting.
+Product photograph of TONE STATION desk organizer — a three-stage signal
+chain object in dark walnut and matte black steel, shot on a weathered
+concrete surface with scattered guitar picks and a coiled cable to the
+far left edge of frame.
+
+LENS & DISTANCE: 85mm f/2.0, shot from 90cm, camera positioned at
+30-degree elevation angle — slightly below the 15-degree tray incline,
+so the row of brass signal dots beneath the center tray is visible in
+the lower third of the frame.
+
+LIGHTING: Single key light from upper-left at 45 degrees, 1.2 stops
+warmer than daylight (3400K practical tungsten bounce), casting a
+defined shadow that travels right across the concrete surface — shadow
+occupies roughly 35% of the right half of the frame, reinforcing the
+left-to-right directionality. No fill light. A thin rim of cool natural
+window light grazes the right edge of the headphone stand.
+
+COLOR GRADE: Kodak Vision3 500T pushed one stop — desaturated midtones,
+warmth retained only in the walnut grain and the brass dot strip, slight
+halation around the headphone arc. Mood: a recording studio at 2am,
+after the session.
+
+COMPOSITION: TONE STATION occupies the left-center two-thirds of frame.
+The headphone stand sits exactly at the right-third vertical line.
+The first eye-landing point is the 15-degree tray surface catching the
+key light — the incline becomes the visual horizon of the image.
+The bottom-right corner fades into shadow and out of focus.
+Nothing is centered. Nothing is symmetrical.
+
+No white background. This is a portrait, not a product shot.
 ```
 
 ---
@@ -60,13 +106,38 @@ a white surface. Clean minimal aesthetic, dramatic side lighting.
 
 ## 活用シーン・使用中のイメージ（画像プロンプト）
 ```
-Overhead shot of a home studio desk at night. TONE STATION organizer 
-centered on the desk with guitar effects pedals displayed in the center tray, 
-headphones hanging on the right stand, and a guitar cable neatly hooked on 
-the left. A guitarist's hands are visible adjusting an effects pedal knob.
-Warm desk lamp illuminating the scene from the upper left. A notebook with 
-chord charts to the right. The desk looks intentional and curated, like a 
-professional content creator's setup. Cinematic, 35mm film color grading.
+Lifestyle photograph titled "After the Session" — a guitarist's desk at
+the moment they have just placed their headphones back on the stand.
+The headphones are still slightly warm from use; the cord drapes naturally,
+not arranged.
+
+SCENE: Narrow wooden desk against a wall covered in torn concert posters
+and a single Post-it setlist. TONE STATION anchors the left side of the desk.
+To its right: an open notebook with handwritten chord diagrams, a half-drunk
+mug of tea catching backlight. The guitar itself is out of frame — but
+its presence is felt.
+
+LENS & DISTANCE: 35mm f/1.4, camera at desk height (73cm from floor),
+90cm from TONE STATION. The headphone stand and tray are sharp;
+the notebook and mug dissolve into warm bokeh.
+
+LIGHTING: Backlight source — a single warm desk lamp behind and to the
+right of the scene, casting the scene in silhouette-adjacent low light.
+The 15-degree tray catches just enough lamp spill to reveal one pedal's
+chrome knob as a tiny point of specular light — the secondary focal
+point that rewards a long look.
+
+COLOR GRADE: Fujifilm Eterna Cinema 500 — golden warmth in lamp bloom,
+cooled shadows toward blue-grey on the desk surface, grain visible.
+Emotional temperature: "satisfied exhaustion."
+
+COMPOSITION: The headphones resting on the stand are the first read —
+the gesture of putting them down is frozen in the drape of the cord.
+The eye moves left and down, discovering the signal dot strip beneath
+the tray catching faint lamp spill. One guitar pick resting on the
+tray instead of in the holder — because someone was playing, not displaying.
+
+MOOD: "This is where I make things. And I just made something."
 ```
 
 ---
