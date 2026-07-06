@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>譜面マークアップ練習ツール</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header id="toolbar">
+  <div class="toolbar-row">
+    <h1 class="app-title">譜面マークアップ</h1>
+
+    <div class="mode-switch">
+      <button id="modeEditBtn" class="mode-btn active" data-mode="edit">編集</button>
+      <button id="modePlayBtn" class="mode-btn" data-mode="play">再生</button>
+    </div>
+
+    <label class="file-import-btn">
+      譜面を取り込む
+      <input type="file" id="fileInput" accept="image/*,.pdf,application/pdf" multiple hidden />
+    </label>
+
+    <div class="spacer"></div>
+
+    <button id="exportBtn" class="ghost-btn" title="プロジェクトをJSONファイルとして保存">書き出し</button>
+    <label class="ghost-btn" title="JSONファイルからプロジェクトを読み込む">
+      読み込み
+      <input type="file" id="importInput" accept="application/json,.json" hidden />
+    </label>
+    <button id="clearBtn" class="ghost-btn danger" title="すべてのページとマークを削除">全消去</button>
+  </div>
+
+  <div class="toolbar-row" id="playbackRow">
+    <div class="bpm-control">
+      <label for="bpmInput">BPM</label>
+      <button id="bpmDown" class="step-btn">−</button>
+      <input type="number" id="bpmInput" min="20" max="300" value="90" />
+      <button id="bpmUp" class="step-btn">＋</button>
+      <button id="tapTempoBtn" class="ghost-btn">タップ</button>
+    </div>
+
+    <button id="playBtn" class="primary-btn">▶ 再生</button>
+    <button id="stopBtn" class="ghost-btn">■ 停止</button>
+
+    <label class="checkbox-label">
+      <input type="checkbox" id="loopToggle" checked />
+      ループ
+    </label>
+    <label class="checkbox-label">
+      <input type="checkbox" id="metronomeToggle" checked />
+      クリック音
+    </label>
+
+    <div class="spacer"></div>
+    <button id="sidebarToggleBtn" class="ghost-btn">区間リスト</button>
+  </div>
+</header>
+
+<main id="appMain">
+  <div id="pagesContainer" class="pages-container">
+    <p id="emptyHint" class="empty-hint">
+      上の「譜面を取り込む」から画像またはPDFを追加してください。<br />
+      編集モードでは、譜面上をドラッグして演奏順に区間（小節・行など）を矩形で囲んでいきます。
+    </p>
+  </div>
+
+  <aside id="sidebar" class="sidebar hidden">
+    <div class="sidebar-header">
+      <h2>区間リスト</h2>
+      <button id="sidebarCloseBtn" class="ghost-btn small">×</button>
+    </div>
+    <ol id="regionList" class="region-list"></ol>
+  </aside>
+</main>
+
+<div id="toast" class="toast hidden"></div>
+
+<script type="module" src="src/main.js"></script>
+</body>
+</html>
